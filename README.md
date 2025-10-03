@@ -1,61 +1,45 @@
-# 👋 Hi, I'm Tech Guru (techguru-io)
+# 👋 Hi, I’m Tech Guru (techguru-io)
 
-💻 Senior Full-Stack Developer | Web & Automation Specialist  
-🚀 Building scalable apps & automation tools | ☁️ Cloud & DevOps Enthusiast  
+> Full-Stack Developer · Custom web apps & automation tools · React / Node.js · 8+ years
 
----
-
-## 🌟 About Me
-I’m a passionate full-stack developer focused on creating **clean, high-performance web applications** and **automation tools**.  
-I specialize in **React, Next.js, TypeScript, Node.js, and Go**, with experience in cloud infrastructure, CI/CD pipelines, and modern software architecture.
-
-- 🔭 Currently working on: **React + Go SaaS apps**  
-- 🌱 Exploring: Serverless architectures, AI integration, and advanced cloud patterns  
-- 👯 Open to: Collaborating on open-source tools, APIs, and web infrastructure  
-- 💬 Ask me about: Full-stack development, microservices, system design, and DevOps  
-- 📫 Reach me at: [nicolas.dev@example.com](mailto:nicolas.dev@example.com)  
+[Portfolio](https://techguru-portfolio.vercel.app/) · [X / @techguru_io](https://x.com/techguru_io)
 
 ---
 
-## 🛠️ Tech Stack
+## 🔭 What I build
+I build polished, high-performance web apps and developer tools — from modern marketing sites to full-stack applications and automation pipelines. I enjoy clean architecture, practical UX, and shipping production-ready code.
 
-| Layer        | Tools & Technologies |
-|--------------|--------------------|
-| Frontend     | React, Next.js, TypeScript, TailwindCSS |
-| Backend      | Node.js, Express, Go (Golang), REST APIs |
-| Databases    | PostgreSQL, MongoDB, Redis |
-| DevOps & CI/CD | Docker, GitHub Actions, Netlify, Vercel |
-| Other        | Microservices, Serverless, Authentication |
+## 🛠️ Tech & tools
+- **Frontend:** React, Next.js, Tailwind CSS, TypeScript  
+- **Backend:** Node.js, Go (Golang), REST APIs, MongoDB  
+- **DevOps / Infra:** Vercel, Docker, CI/CD (GitHub Actions)  
+- **Other:** Framer Motion, testing, code quality & automation
 
----
+## ✨ Featured projects
+- **PixelCraft** — A modern, responsive website for PixelCraft built with React, Tailwind CSS and Framer Motion (multi-language support, theme switching, contact integration).  
+  https://github.com/techguru-io/pixelcraft
 
-## 📌 Featured Projects
+- **Real-Estate** — TypeScript full-stack real estate project (clean architecture & UI).  
+  https://github.com/techguru-io/Real-Estate
 
-Here are some of my key public repositories:
+- **React-Go-Todo** — Full-stack task manager: Next.js + Tailwind frontend with a Go backend, auth and CRUD support.  
+  https://github.com/techguru-io/React-Go-Todo
 
-| Project | Description |
-|--------|-------------|
-| **React-Go-Todo** | Full-stack task manager with Next.js + Tailwind frontend and Go backend. Includes authentication, CRUD, and performance optimizations. [Repo](https://github.com/techguru-io/React-Go-Todo) |
-| **(Other repo 1)** | Description of another repo. Replace this with your real project name & link. |
-| **(Other repo 2)** | Another project description. Add your best repos here. |
+- **Nexus_AI** — TypeScript project with MIT License (AI/assistant-related work).  
+  https://github.com/techguru-io/Nexus_AI
 
-*(Update/add more repos — pick your top 3–6 for maximum impact.)*  
-
----
-
-## 📈 GitHub Stats
-
-![Tech Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=techguru-io&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techguru-io&layout=compact&theme=tokyonight)  
+> See all repos: https://github.com/techguru-io?tab=repositories
 
 ---
 
-## 🌐 Connect with Me
+## 🧩 How I like to work
+- Focus on clarity: readable code, small focused PRs, clear commit messages.  
+- Ship small, iterate quickly, instrument and measure.  
+- Prefer practical automation — if it can be scripted, it should be.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://techguru-portfolio.vercel.app/)  
-[![X / Twitter](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white)](https://x.com/techguru_io)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicolas.dev@example.com)  
+## 📈 GitHub stats
+> (Tip: add `github-readme-stats` cards if you want visual stats. Example snippet below.)
 
----
-
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
+```md
+<!-- GitHub stats card (example) -->
+![Tech Guru's GitHub stats](https://github-readme-stats.vercel.app/api?username=techguru-io&show_icons=true&theme=radical)
